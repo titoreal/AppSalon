@@ -1,0 +1,17 @@
+{
+    "name": "real/public",
+    "description": "develop",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Real\\Public\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "titin"
+        }
+    ],
+    "require": {}
+}
